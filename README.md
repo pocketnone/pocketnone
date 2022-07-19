@@ -14,8 +14,6 @@
 </a>
 </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sysfaker&no-frame=true&theme=onestar" alt="My Github Trophy" /> </p>
-
 
 ----
 
