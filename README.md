@@ -1,21 +1,5 @@
 <h1 align="center"><b>NONE's Profile</b></h1>
 
- 
-<p align="center">
-<a href="https://github.com/sysfaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocketnone&layout=compact&count_private=true&theme=midnight-purple" />
-</a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/sysfaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pocketnone&count_private=true&theme=midnight-purple" />
-</a>
-</p>
-
-
-----
 
 <p align="center">
 <b>My Current Project's</b>
